@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "David Mark",
+      "title": "Female domestic players receive pay rise as Cricket Australia continues striving for 'genuine parity'",
+      "description": "Payments for players in the domestic competitions increase, but Cricket Australia acknowledges there is still a \"really big gap\" between the pay available for its male and female cricketers.",
+      "url": "http://www.abc.net.au/news/2021-10-12/australian-female-cricketers-receive-pay-rise/100533808",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/43d7a5c0fd6d571e30270ab2dc949be0?impolicy=wcms_crop_resize&cropH=1680&cropW=2983&xPos=17&yPos=120&width=862&height=485",
+      "publishedAt": "2021-10-12T08:18:45Z",
+      "content": "Australia's female domestic cricketers are getting a pay rise, with basic match payments to increase by as much as 22 per cent this season.\r\n<ul><li>The average retainer for Women's National Cricket … [+2831 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
